@@ -9,4 +9,6 @@ This repository contains the common lists used in Class-Incremental Learning (CI
 
 Each folder contains a README.md file that explains how to download the dataset. The lists are provided in the following format: a text file with the path to the images and their labels. The first line of the file indicates the path to the images. The following lines are of the form: `path/to/image label`. The labels are integers starting from 0.
 
+[datasets_mean_std.txt](https://github.com/GregoirePetit/imagelistsCIL/blob/master/datasets_mean_std.txt) contains the mean and standard deviation of the datasets. The mean and standard deviation are computed on the training set.
+
 A loader is provided in the repository [utilsCIL](https://github.com/GregoirePetit/utilsCIL) in [MyImageFolder.py](https://github.com/GregoirePetit/utilsCIL/blob/main/MyImageFolder.py#L34) to load the lists.

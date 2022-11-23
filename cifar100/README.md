@@ -1,3 +1,3 @@
 CIFAR100 (https://www.cs.toronto.edu/~kriz/cifar.html) is a dataset of 100 classes of 600 images each. There are 500 training images and 100 testing images per class. It can be downloaded [here](https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz).
 
-All the images should be placed then in the same directory, that you indicate on the first line of the files [train.lst](https://github.com/GregoirePetit/imagelistsCIL/blob/main/cifar100/train.lst#L1) and [test.lst](https://github.com/GregoirePetit/imagelistsCIL/blob/main/cifar100/test.lst#L1).
+All the images should be placed then in the same directory, that you indicate on the first line of the files [train.lst](https://github.com/GregoirePetit/imagelistsCIL/blob/master/cifar100/train.lst#L1) and [test.lst](https://github.com/GregoirePetit/imagelistsCIL/blob/master/cifar100/test.lst#L1).
